@@ -48,7 +48,7 @@ body{
     font-size: 30px;
 }
 
-.sider-bar{
+.side-bar{
     width: 60px;
     height: 100%;
     position: fixed;
@@ -57,7 +57,7 @@ body{
     box-shadow: 4px 4px 8px #070A0F;
 }
 
-.btn-size{
+.btn-side{
     background-color: #192332;
     color: orange;
     width: 60px;
@@ -69,10 +69,10 @@ body{
 
 /* #btn-home{} */
 
-.btn-size img{
+.btn-side img{
     width: 30px;
 }
 
-.btn-size:focus{
+.btn-side:focus{
     background-color: orange;
 }
