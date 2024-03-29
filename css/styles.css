@@ -44,10 +44,6 @@ body{
     margin-left: 1rem;
 }
 
-.search i{
-    font-size: 30px;
-}
-
 .side-bar{
     width: 60px;
     height: 100%;
@@ -59,18 +55,11 @@ body{
 
 .btn-side{
     background-color: #192332;
-    color: orange;
     width: 60px;
     height: 60px;
     margin-bottom: 10px;
     border: none;
     cursor: pointer;
-}
-
-/* #btn-home{} */
-
-.btn-side img{
-    width: 30px;
 }
 
 .btn-side:focus{
